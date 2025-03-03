@@ -1,0 +1,87 @@
+{
+    "Navbar": {
+        "airports": "Airports",
+        "news": "News",
+        "projects": "Projects",
+        "tenders": "Tenders",
+        "jobs": "Jobs",
+        "more": "More"
+    },
+    "Landing": {
+        "sacl": "Sudan Airports Company Ltd",
+        "description": "It manages and operates Sudanese airports, providing high-quality services to airlines and passengers. We are committed to excellence in ensuring a safe and comfortable environment, implementing the latest technologies in accordance with the highest international standards. Our goal is to enhance the air travel experience and meet the growing needs of the secto",
+        "goals": "Goals",
+        "goalsDescription": "We aim to enhance travelers' experience by providing high-quality services and streamlining travel procedures using modern technologies. Additionally, we strive to improve operational efficiency by optimizing processes and training human resources.",
+        "values": "values",
+        "valuesDescription": "We are believes in safety as a top priority and is committed to providing high-quality services. We focus on innovation by utilizing the latest technologies and strive for sustainability by balancing development with environmental responsibility. Additionally, we value collaboration and teamwork to achieve shared goals.",
+        "vision": "Vision",
+        "visionDescription": "We strive for leadership in aviation services through innovation and excellence in providing a safe and comfortable environment for travelers while promoting the growth of the aviation sector in accordance with international standards."
+    },
+    "AboutCompany": {
+        "about": "About Company ",
+        "description1": "Sudan Airports Company Limited was officially established in 2013 as part of the Sudanese government's efforts to develop the country's civil aviation sector. This step came after significant growth in air traffic and an increasing demand for improved airport services and infrastructure.",
+        "description2": "In 2015, the company began implementing extensive development plans, including the construction of the new Khartoum International Airport, aimed at enhancing its capacity to accommodate larger air traffic and serve millions of passengers annually. This was followed by expansions at regional airports such as Port Sudan Airport and Nyala Airport, to improve connectivity between different regions of Sudan and the world.",
+        "description3": "In 2018, the company focused on implementing international quality and safety standards in collaboration with global civil aviation authorities, which contributed to improving the ranking of Sudan's airports both regionally and internationally."
+    },
+    "News":
+    {
+        "lastNews": " Latest News",
+        "readMore": " Read More ",
+        "nowNews": "No News Available",
+        "serach": "serach"
+    },
+    "Projects":{
+        "title": " Company Projects ",
+        "readMore": "Read More ",
+        "readLess": "Show Less"
+    },"ContactUs": {
+        "contactUs": " Contact Us ",
+        "name": "Name",
+        "email": "E-Mail",
+        "message": "Message",
+        "title": "Sudan Airports Company Ltd",
+        "location": "Location"
+    },
+    "Footer": {
+        "company": "Company",
+        "projects": "Projects",
+        "news": "News",
+        "tenders": "Tenders",
+        "sudanAirports": "Sudan Airports",
+        "khartoum": "Khartoum Airport",
+        "kassala": "Kassala Airport",
+        "portsudan": "Portsudan Airport",
+        "relatedLinks": "Related Links",
+        "caa": "Civil Aviation Authority",
+        "sudanair": "Sudan Airways",
+        "tarco": "Tarco Aviation",
+        "badr": "Badr Aviation",
+        "rules": "Rules and Regulations"
+    },
+    "Tender": {
+        "title": "Tenders",
+        "download": "Download"
+    },
+    "Jobs": {
+        "title": "Available Jobs",
+        "jobTitle": "Job Title",
+        "employmentType": "Type of Employment",
+        "startDate": "From",
+        "endDate": "To",
+        "download": "Download"
+    },
+    "Airports":{
+        "title": "Sudan Airports",
+        "airportType": "Airport Type",
+        "airportCode": "Airport Code",
+        "location": "Location",
+        "capacity": "Capacity",
+        "parkingSpace": "Parking Space",
+        "runwayLength": "Runway Length"
+    },
+    "HomePage": {
+        "title": " Welcome",
+        "about": "uk Us ",
+        "contact": " الاخبار"
+    }
+}
